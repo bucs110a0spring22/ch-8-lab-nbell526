@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+this program adds a new file and runs different string features to manipulate the driver code provided. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 1 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 1 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+(https://medium.com/interview-buddy/handling-ascii-character-in-python-58993859c38e#:~:text=Python%20is%20a%20high%20level%20scripting%20language.%20We,number%20of%20a%20character%3A%20ord%20%28%27A%27%29%20%23--%3E%2065)
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+hard to be street fair kettlecorn i must say
